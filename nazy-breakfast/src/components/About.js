@@ -22,7 +22,7 @@ const About = () => {
                 We believe in the power of a good breakfast for a healthy diet. At Nazy Breakfast, we're passionate about providing nutritious breakfast options that are not only delicious but also fuel your body for the day ahead. Morning meals matter to us because they set the tone for your entire day. Whether it's a hearty bowl of oatmeal or a protein-packed smoothie, we're here to make your mornings healthier and happier.
             </p>
             <p className='primary-text'>
-                We understand the importance of breakfast in maintaining a balanced diet. That's why we're dedicated to offering a range of nutritious morning options that make every meal count. From wholesome granolas to energizing fruit bowls, we're committed to helping you start your day right. Because we believe that morning meals matter in nourishing both body and mind.
+                We understand the importance of breakfast in maintaining a balanced diet. That's why we're dedicated to offering a range of nutritious morning options that make every meal count.
             </p>
             <div className='about-button-container'>
                 <button className='secondary-button'>Learn More</button>

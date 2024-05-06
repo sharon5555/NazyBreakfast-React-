@@ -14,7 +14,7 @@ const Home = () => {
             </div>
             <div className="home-text-section">
                 <h1 className='primary-heading'>
-                    Your BreakFast Delivered Hot & Fresh.
+                    Nazy BreakFast Delivered Hot & Fresh.
                 </h1>
                 <p className='primary-text'>
                     Healthy swap-out chefs do all the prep stuff, like cutting up ingredients and adding flavor, so you just have to cook the food fresh.
