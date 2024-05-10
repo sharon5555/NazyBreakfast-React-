@@ -26,7 +26,7 @@ const About = () => {
             </p>
             <div className='about-button-container'>
                 <button className='secondary-button'>Learn More</button>
-                <button className='watch-video-button'> <BsFillPlayCircleFill/> Watch Video</button>
+                {/*<button className='watch-video-button'> <BsFillPlayCircleFill/> Watch Video</button>*/}
             </div>
         </div>
     </div>

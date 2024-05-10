@@ -9,15 +9,13 @@ return (
         <p className="primary-subheading">Testimonial</p>
         <h1 className="primary-heading">What They Are Saying</h1>
         <p className="primary-text">
-        Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-        elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+            Everyone loves Nazy Breakfast's tasty and convenient morning meals!
         </p>
     </div>
     <div className="testimonial-section-bottom">
         <img src={ProfilePic} alt="" />
         <p>
-        Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-        elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+            I loved my breakfast at Nazy Breakfast! The food smelled amazing when I walked in. There were so many yummy choices on the menu. When my food came, it was even better than I hoped! The pancakes were fluffy, the eggs were just right, and the coffee was perfect. The people working there were really nice, too. I left feeling happy and full. Can't wait to go back!!
         </p>
         <div className="testimonials-stars-container">
             <AiFillStar />
